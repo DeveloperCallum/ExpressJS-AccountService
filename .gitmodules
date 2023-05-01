@@ -1,0 +1,3 @@
+[submodule "ExpressJS-Models"]
+	path = ExpressJS-Models
+	url = https://github.com/DeveloperCallum/ExpressJS-Models
